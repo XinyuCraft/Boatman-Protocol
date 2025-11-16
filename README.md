@@ -30,3 +30,7 @@ else{
     // 不符合要求
 }
 ```
+
+## EasyTier联机房间
+根据 **EasyTier** 的文档和 **Boatman房间码**，连接到EasyTier虚拟网络名称（**network-name**）应该为 `boatman-room-NNNN-NNNN`，连接到房间的网络密钥（network-secret）应为 `SSSS-SSSS`。
+例如：房间码为 `B-STNB-ILXY-1145-EH7H` 时，网络名称为 `boatman-room-STNB-ILXY` ，网络密钥为 `1145-EH7H`。
